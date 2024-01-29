@@ -11,7 +11,7 @@
 
 ### How To Get Started
 
-Fork the [repo. (https://github.com/daemyonc/react-vite-eslint)](https://github.com/daemyonc/react-vite-eslint)
+Fork this repo
 
 ```bash
 npm i
