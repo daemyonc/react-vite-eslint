@@ -13,7 +13,7 @@ module.exports = {
       jsx: true,
     },
   },
-  plugins: ['react', 'react-hooks', 'react-refresh', 'import'],
+  plugins: ['react', 'react-hooks', 'import'],
   rules: {
     indent: ['error', 2],
     'no-shadow': 'off',
