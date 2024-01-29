@@ -1,6 +1,6 @@
 # React / Vite / ESLint / Prettier
 
-## Starter project
+### Starter project
 
 > Projects used
 
@@ -10,6 +10,8 @@
 - [Prettier](https://prettier.io/)
 
 ### How To Get Started
+
+Fork the [repo. (https://github.com/daemyonc/react-vite-eslint)](https://github.com/daemyonc/react-vite-eslint)
 
 ```bash
 npm i
