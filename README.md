@@ -1,6 +1,6 @@
 # React / Vite / ESLint / Prettier
 
-### Starter project
+### Starter project Skeleton
 
 > Projects used
 
@@ -20,6 +20,10 @@ npm i
 ```bash
 npm start
 ```
+
+### Create a Bare Fork
+#### [Detaching a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/detaching-a-fork)
+
 
 ### [ESLint Configuration](./.eslintrc.js)
 
