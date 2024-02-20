@@ -10,7 +10,6 @@
 - [Prettier](https://prettier.io/)
 
 ### How To Get Started
-
 Fork this repo
 
 ```bash
@@ -23,6 +22,7 @@ npm start
 
 ### Create a Bare Fork
 #### [Detaching a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/detaching-a-fork)
+
 
 
 ### [ESLint Configuration](./.eslintrc.js)
